@@ -1,0 +1,62 @@
+#header {
+	position:fixed;
+	background-color:#000040;
+	width:100%;
+	height:85px;
+	color:white;
+	text-align:left;
+	padding:10px;
+	}
+
+#toolbar {
+	position:fixed;
+	background-color:#000040;
+	top:0;
+	bottom:85px;
+	right:0;
+	height:100%;
+	float:right;
+	width:350px;
+	padding:10px;
+	text-align:center;
+	}
+	
+.btn-toolbar {
+	color:#FFFFFF;
+	background-color:#000040;
+	border-color:#000040;
+	}
+	
+#nav {
+	background-color:#C0C0C0;
+	position:fixed;
+	top:85px;
+	bottom:0;
+	height:100%;
+	width:200px;
+	float:left;
+	padding:10px;
+	}
+	
+.btn-nav {
+	color:#000000;
+	background-color:#C0C0C0;
+	border-color:#C0C0C0;
+	}
+
+#opener {
+	float:right;
+	margin:-10px -50px 0px 0px;
+	border-radius:0;
+	}
+	
+#map {
+	background-color:#000040;
+	position:fixed;
+	bottom:0;
+	right:0;
+	left:50px;
+	top:85px;
+	height:100%;
+	margin-left:150px;
+	}
